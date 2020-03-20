@@ -31,3 +31,12 @@ main {
 header h1 {
   text-align: center;
 }
+
+.character-list{
+  display: flex;
+  flex-wrap: wrap;
+}
+.character{
+  width:25%;
+  margin:3%;
+}
